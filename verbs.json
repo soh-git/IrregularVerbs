@@ -1,0 +1,1546 @@
+{"verbs": [
+    {
+      "verb": "abide",
+      "preterit": [
+        "abode"
+      ],
+      "pastParticiple": [
+        "abode"
+      ]
+    },
+    {
+      "verb": "arise",
+      "preterit": [
+        "arose"
+      ],
+      "pastParticiple": [
+        "arisen"
+      ]
+    },
+    {
+      "verb": "awake",
+      "preterit": [
+        "awoke"
+      ],
+      "pastParticiple": [
+        "awoken"
+      ]
+    },
+    {
+      "verb": "be",
+      "preterit": [
+        "was",
+        "were"
+      ],
+      "pastParticiple": [
+        "been"
+      ]
+    },
+    {
+      "verb": "bear",
+      "preterit": [
+        "bore"
+      ],
+      "pastParticiple": [
+        "borne",
+        "born"
+      ]
+    },
+    {
+      "verb": "beat",
+      "preterit": [
+        "beat"
+      ],
+      "pastParticiple": [
+        "beaten"
+      ]
+    },
+    {
+      "verb": "become",
+      "preterit": [
+        "became"
+      ],
+      "pastParticiple": [
+        "become"
+      ]
+    },
+    {
+      "verb": "beget",
+      "preterit": [
+        "begat",
+        "begot"
+      ],
+      "pastParticiple": [
+        "begotten"
+      ]
+    },
+    {
+      "verb": "begin",
+      "preterit": [
+        "began"
+      ],
+      "pastParticiple": [
+        "begun"
+      ]
+    },
+    {
+      "verb": "bend",
+      "preterit": [
+        "bent"
+      ],
+      "pastParticiple": [
+        "bent"
+      ]
+    },
+    {
+      "verb": "bet",
+      "preterit": [
+        "bet"
+      ],
+      "pastParticiple": [
+        "bet"
+      ]
+    },
+    {
+      "verb": "bid",
+      "preterit": [
+        "bid",
+        "bade"
+      ],
+      "pastParticiple": [
+        "bid",
+        "bidden"
+      ]
+    },
+    {
+      "verb": "bite",
+      "preterit": [
+        "bit"
+      ],
+      "pastParticiple": [
+        "bitten"
+      ]
+    },
+    {
+      "verb": "bleed",
+      "preterit": [
+        "bled"
+      ],
+      "pastParticiple": [
+        "bled"
+      ]
+    },
+    {
+      "verb": "blow",
+      "preterit": [
+        "blew"
+      ],
+      "pastParticiple": [
+        "blown"
+      ]
+    },
+    {
+      "verb": "break",
+      "preterit": [
+        "broke"
+      ],
+      "pastParticiple": [
+        "broken"
+      ]
+    },
+    {
+      "verb": "bring",
+      "preterit": [
+        "brought"
+      ],
+      "pastParticiple": [
+        "brought"
+      ]
+    },
+    {
+      "verb": "broadcast",
+      "preterit": [
+        "broadcast"
+      ],
+      "pastParticiple": [
+        "broadcast"
+      ]
+    },
+    {
+      "verb": "build",
+      "preterit": [
+        "built"
+      ],
+      "pastParticiple": [
+        "built"
+      ]
+    },
+    {
+      "verb": "burn",
+      "preterit": [
+        "burnt",
+        "burned"
+      ],
+      "pastParticiple": [
+        "burnt",
+        "burned"
+      ]
+    },
+    {
+      "verb": "burst",
+      "preterit": [
+        "burst"
+      ],
+      "pastParticiple": [
+        "burst"
+      ]
+    },
+    {
+      "verb": "buy",
+      "preterit": [
+        "bought"
+      ],
+      "pastParticiple": [
+        "bought"
+      ]
+    },
+    {
+      "verb": "can",
+      "preterit": [
+        "could"
+      ],
+      "pastParticiple": [
+        "could"
+      ]
+    },
+    {
+      "verb": "cast",
+      "preterit": [
+        "cast"
+      ],
+      "pastParticiple": [
+        "cast"
+      ]
+    },
+    {
+      "verb": "catch",
+      "preterit": [
+        "caught"
+      ],
+      "pastParticiple": [
+        "caught"
+      ]
+    },
+    {
+      "verb": "chide",
+      "preterit": [
+        "chid",
+        "chode"
+      ],
+      "pastParticiple": [
+        "chid /chidden"
+      ]
+    },
+    {
+      "verb": "choose",
+      "preterit": [
+        "chose"
+      ],
+      "pastParticiple": [
+        "chosen"
+      ]
+    },
+    {
+      "verb": "cling",
+      "preterit": [
+        "clung"
+      ],
+      "pastParticiple": [
+        "clung"
+      ]
+    },
+    {
+      "verb": "clothe",
+      "preterit": [
+        "clad",
+        "clothed"
+      ],
+      "pastParticiple": [
+        "clad",
+        "clothed"
+      ]
+    },
+    {
+      "verb": "come",
+      "preterit": [
+        "came"
+      ],
+      "pastParticiple": [
+        "come"
+      ]
+    },
+    {
+      "verb": "cost",
+      "preterit": [
+        "cost"
+      ],
+      "pastParticiple": [
+        "cost"
+      ]
+    },
+    {
+      "verb": "creep",
+      "preterit": [
+        "crept"
+      ],
+      "pastParticiple": [
+        "crept"
+      ]
+    },
+    {
+      "verb": "cut",
+      "preterit": [
+        "cut"
+      ],
+      "pastParticiple": [
+        "cut"
+      ]
+    },
+    {
+      "verb": "deal",
+      "preterit": [
+        "dealt"
+      ],
+      "pastParticiple": [
+        "dealt"
+      ]
+    },
+    {
+      "verb": "dig",
+      "preterit": [
+        "dug"
+      ],
+      "pastParticiple": [
+        "dug"
+      ]
+    },
+    {
+      "verb": "dive",
+      "preterit": [
+        "dived"
+      ],
+      "pastParticiple": [
+        "dived",
+        "dove"
+      ]
+    },
+    {
+      "verb": "do",
+      "preterit": [
+        "did"
+      ],
+      "pastParticiple": [
+        "done"
+      ]
+    },
+    {
+      "verb": "draw",
+      "preterit": [
+        "drew"
+      ],
+      "pastParticiple": [
+        "drawn"
+      ]
+    },
+    {
+      "verb": "dream",
+      "preterit": [
+        "dreamed",
+        "dreamt"
+      ],
+      "pastParticiple": [
+        "dreamed",
+        "dreamt"
+      ]
+    },
+    {
+      "verb": "drink",
+      "preterit": [
+        "drank"
+      ],
+      "pastParticiple": [
+        "drunk"
+      ]
+    },
+    {
+      "verb": "drive",
+      "preterit": [
+        "drove"
+      ],
+      "pastParticiple": [
+        "driven"
+      ]
+    },
+    {
+      "verb": "dwell",
+      "preterit": [
+        "dwelt"
+      ],
+      "pastParticiple": [
+        "dwelt",
+        "dwelled"
+      ]
+    },
+    {
+      "verb": "eat",
+      "preterit": [
+        "ate"
+      ],
+      "pastParticiple": [
+        "eaten"
+      ]
+    },
+    {
+      "verb": "fall",
+      "preterit": [
+        "fell"
+      ],
+      "pastParticiple": [
+        "fallen"
+      ]
+    },
+    {
+      "verb": "feed",
+      "preterit": [
+        "fed"
+      ],
+      "pastParticiple": [
+        "fed"
+      ]
+    },
+    {
+      "verb": "feel",
+      "preterit": [
+        "felt"
+      ],
+      "pastParticiple": [
+        "felt"
+      ]
+    },
+    {
+      "verb": "fight",
+      "preterit": [
+        "fought"
+      ],
+      "pastParticiple": [
+        "fought"
+      ]
+    },
+    {
+      "verb": "find",
+      "preterit": [
+        "found"
+      ],
+      "pastParticiple": [
+        "found"
+      ]
+    },
+    {
+      "verb": "flee",
+      "preterit": [
+        "fled"
+      ],
+      "pastParticiple": [
+        "fled"
+      ]
+    },
+    {
+      "verb": "fling",
+      "preterit": [
+        "flung"
+      ],
+      "pastParticiple": [
+        "flung"
+      ]
+    },
+    {
+      "verb": "fly",
+      "preterit": [
+        "flew"
+      ],
+      "pastParticiple": [
+        "flown"
+      ]
+    },
+    {
+      "verb": "forbid",
+      "preterit": [
+        "forbade"
+      ],
+      "pastParticiple": [
+        "forbidden"
+      ]
+    },
+    {
+      "verb": "forecast",
+      "preterit": [
+        "forecast"
+      ],
+      "pastParticiple": [
+        "forecast"
+      ]
+    },
+    {
+      "verb": "forget",
+      "preterit": [
+        "forgot"
+      ],
+      "pastParticiple": [
+        "forgotten"
+      ]
+    },
+    {
+      "verb": "forgive",
+      "preterit": [
+        "forgave"
+      ],
+      "pastParticiple": [
+        "forgiven"
+      ]
+    },
+    {
+      "verb": "forsake",
+      "preterit": [
+        "forsook"
+      ],
+      "pastParticiple": [
+        "forsaken"
+      ]
+    },
+    {
+      "verb": "forsee",
+      "preterit": [
+        "foresaw"
+      ],
+      "pastParticiple": [
+        "foreseen"
+      ]
+    },
+    {
+      "verb": "freeze",
+      "preterit": [
+        "froze"
+      ],
+      "pastParticiple": [
+        "frozen"
+      ]
+    },
+    {
+      "verb": "get",
+      "preterit": [
+        "got"
+      ],
+      "pastParticiple": [
+        "gotten"
+      ]
+    },
+    {
+      "verb": "give",
+      "preterit": [
+        "gave"
+      ],
+      "pastParticiple": [
+        "given"
+      ]
+    },
+    {
+      "verb": "go",
+      "preterit": [
+        "went"
+      ],
+      "pastParticiple": [
+        "gone"
+      ]
+    },
+    {
+      "verb": "grind",
+      "preterit": [
+        "ground"
+      ],
+      "pastParticiple": [
+        "ground"
+      ]
+    },
+    {
+      "verb": "grow",
+      "preterit": [
+        "grew"
+      ],
+      "pastParticiple": [
+        "grown"
+      ]
+    },
+    {
+      "verb": "hang",
+      "preterit": [
+        "hung"
+      ],
+      "pastParticiple": [
+        "hung"
+      ]
+    },
+    {
+      "verb": "have",
+      "preterit": [
+        "had"
+      ],
+      "pastParticiple": [
+        "had"
+      ]
+    },
+    {
+      "verb": "hear",
+      "preterit": [
+        "heard"
+      ],
+      "pastParticiple": [
+        "heard"
+      ]
+    },
+    {
+      "verb": "hide",
+      "preterit": [
+        "hid"
+      ],
+      "pastParticiple": [
+        "hidden"
+      ]
+    },
+    {
+      "verb": "hit",
+      "preterit": [
+        "hit"
+      ],
+      "pastParticiple": [
+        "hit"
+      ]
+    },
+    {
+      "verb": "hold",
+      "preterit": [
+        "held"
+      ],
+      "pastParticiple": [
+        "held"
+      ]
+    },
+    {
+      "verb": "hurt",
+      "preterit": [
+        "hurt"
+      ],
+      "pastParticiple": [
+        "hurt"
+      ]
+    },
+    {
+      "verb": "keep",
+      "preterit": [
+        "kept"
+      ],
+      "pastParticiple": [
+        "kept"
+      ]
+    },
+    {
+      "verb": "kneel",
+      "preterit": [
+        "knelt",
+        "knelled"
+      ],
+      "pastParticiple": [
+        "knelt",
+        "knelled"
+      ]
+    },
+    {
+      "verb": "know",
+      "preterit": [
+        "knew"
+      ],
+      "pastParticiple": [
+        "known"
+      ]
+    },
+    {
+      "verb": "lay",
+      "preterit": [
+        "laid"
+      ],
+      "pastParticiple": [
+        "laid"
+      ]
+    },
+    {
+      "verb": "lead",
+      "preterit": [
+        "led"
+      ],
+      "pastParticiple": [
+        "led"
+      ]
+    },
+    {
+      "verb": "lean",
+      "preterit": [
+        "leant"
+      ],
+      "pastParticiple": [
+        "leant"
+      ]
+    },
+    {
+      "verb": "leave",
+      "preterit": [
+        "left"
+      ],
+      "pastParticiple": [
+        "left"
+      ]
+    },
+    {
+      "verb": "lend",
+      "preterit": [
+        "lent"
+      ],
+      "pastParticiple": [
+        "lent"
+      ]
+    },
+    {
+      "verb": "let",
+      "preterit": [
+        "let"
+      ],
+      "pastParticiple": [
+        "let"
+      ]
+    },
+    {
+      "verb": "lie",
+      "preterit": [
+        "lay"
+      ],
+      "pastParticiple": [
+        "lain"
+      ]
+    },
+    {
+      "verb": "light",
+      "preterit": [
+        "lit",
+        "lighted"
+      ],
+      "pastParticiple": [
+        "lit",
+        "lighted"
+      ]
+    },
+    {
+      "verb": "lose",
+      "preterit": [
+        "lost"
+      ],
+      "pastParticiple": [
+        "lost"
+      ]
+    },
+    {
+      "verb": "make",
+      "preterit": [
+        "made"
+      ],
+      "pastParticiple": [
+        "made"
+      ]
+    },
+    {
+      "verb": "mean",
+      "preterit": [
+        "meant"
+      ],
+      "pastParticiple": [
+        "meant"
+      ]
+    },
+    {
+      "verb": "meet",
+      "preterit": [
+        "met"
+      ],
+      "pastParticiple": [
+        "met"
+      ]
+    },
+    {
+      "verb": "mow",
+      "preterit": [
+        "mowed"
+      ],
+      "pastParticiple": [
+        "mowed",
+        "mown"
+      ]
+    },
+    {
+      "verb": "offset",
+      "preterit": [
+        "offset"
+      ],
+      "pastParticiple": [
+        "offset"
+      ]
+    },
+    {
+      "verb": "overcome",
+      "preterit": [
+        "overcame"
+      ],
+      "pastParticiple": [
+        "overcome"
+      ]
+    },
+    {
+      "verb": "partake",
+      "preterit": [
+        "partook"
+      ],
+      "pastParticiple": [
+        "partaken"
+      ]
+    },
+    {
+      "verb": "pay",
+      "preterit": [
+        "paid"
+      ],
+      "pastParticiple": [
+        "paid"
+      ]
+    },
+    {
+      "verb": "plead",
+      "preterit": [
+        "pled",
+        "pleaded"
+      ],
+      "pastParticiple": [
+        "pled",
+        "pleaded"
+      ]
+    },
+    {
+      "verb": "preset",
+      "preterit": [
+        "preset"
+      ],
+      "pastParticiple": [
+        "preset"
+      ]
+    },
+    {
+      "verb": "prove",
+      "preterit": [
+        "proved"
+      ],
+      "pastParticiple": [
+        "proven",
+        "proved"
+      ]
+    },
+    {
+      "verb": "put",
+      "preterit": [
+        "put"
+      ],
+      "pastParticiple": [
+        "put"
+      ]
+    },
+    {
+      "verb": "quit",
+      "preterit": [
+        "quit"
+      ],
+      "pastParticiple": [
+        "quit"
+      ]
+    },
+    {
+      "verb": "read",
+      "preterit": [
+        "read"
+      ],
+      "pastParticiple": [
+        "read"
+      ]
+    },
+    {
+      "verb": "relay",
+      "preterit": [
+        "relaid"
+      ],
+      "pastParticiple": [
+        "relaid"
+      ]
+    },
+    {
+      "verb": "rend",
+      "preterit": [
+        "rent"
+      ],
+      "pastParticiple": [
+        "rent"
+      ]
+    },
+    {
+      "verb": "rid",
+      "preterit": [
+        "rid"
+      ],
+      "pastParticiple": [
+        "rid"
+      ]
+    },
+    {
+      "verb": "ring",
+      "preterit": [
+        "rang"
+      ],
+      "pastParticiple": [
+        "rung"
+      ]
+    },
+    {
+      "verb": "rise",
+      "preterit": [
+        "rose"
+      ],
+      "pastParticiple": [
+        "risen"
+      ]
+    },
+    {
+      "verb": "run",
+      "preterit": [
+        "ran"
+      ],
+      "pastParticiple": [
+        "run"
+      ]
+    },
+    {
+      "verb": "saw",
+      "preterit": [
+        "saw",
+        "sawed"
+      ],
+      "pastParticiple": [
+        "sawn",
+        "sawed"
+      ]
+    },
+    {
+      "verb": "say",
+      "preterit": [
+        "said"
+      ],
+      "pastParticiple": [
+        "said"
+      ]
+    },
+    {
+      "verb": "see",
+      "preterit": [
+        "saw"
+      ],
+      "pastParticiple": [
+        "seen"
+      ]
+    },
+    {
+      "verb": "seek",
+      "preterit": [
+        "sought"
+      ],
+      "pastParticiple": [
+        "sought"
+      ]
+    },
+    {
+      "verb": "sell",
+      "preterit": [
+        "sold"
+      ],
+      "pastParticiple": [
+        "sold"
+      ]
+    },
+    {
+      "verb": "send",
+      "preterit": [
+        "sent"
+      ],
+      "pastParticiple": [
+        "sent"
+      ]
+    },
+    {
+      "verb": "set",
+      "preterit": [
+        "set"
+      ],
+      "pastParticiple": [
+        "set"
+      ]
+    },
+    {
+      "verb": "shake",
+      "preterit": [
+        "shook"
+      ],
+      "pastParticiple": [
+        "shaken"
+      ]
+    },
+    {
+      "verb": "shed",
+      "preterit": [
+        "shed"
+      ],
+      "pastParticiple": [
+        "shed"
+      ]
+    },
+    {
+      "verb": "shine",
+      "preterit": [
+        "shone"
+      ],
+      "pastParticiple": [
+        "shone"
+      ]
+    },
+    {
+      "verb": "shoe",
+      "preterit": [
+        "shod"
+      ],
+      "pastParticiple": [
+        "shod"
+      ]
+    },
+    {
+      "verb": "shoot",
+      "preterit": [
+        "shot"
+      ],
+      "pastParticiple": [
+        "shot"
+      ]
+    },
+    {
+      "verb": "shut",
+      "preterit": [
+        "shut"
+      ],
+      "pastParticiple": [
+        "shut"
+      ]
+    },
+    {
+      "verb": "sing",
+      "preterit": [
+        "sang"
+      ],
+      "pastParticiple": [
+        "sung"
+      ]
+    },
+    {
+      "verb": "sink",
+      "preterit": [
+        "sank",
+        "sunk"
+      ],
+      "pastParticiple": [
+        "sunk",
+        "sunken"
+      ]
+    },
+    {
+      "verb": "sit",
+      "preterit": [
+        "sat"
+      ],
+      "pastParticiple": [
+        "sat"
+      ]
+    },
+    {
+      "verb": "slay",
+      "preterit": [
+        "slew"
+      ],
+      "pastParticiple": [
+        "slain"
+      ]
+    },
+    {
+      "verb": "sleep",
+      "preterit": [
+        "slept"
+      ],
+      "pastParticiple": [
+        "slept"
+      ]
+    },
+    {
+      "verb": "slide",
+      "preterit": [
+        "slid"
+      ],
+      "pastParticiple": [
+        "slid"
+      ]
+    },
+    {
+      "verb": "slit",
+      "preterit": [
+        "slit"
+      ],
+      "pastParticiple": [
+        "slit"
+      ]
+    },
+    {
+      "verb": "smell",
+      "preterit": [
+        "smelt"
+      ],
+      "pastParticiple": [
+        "smelt"
+      ]
+    },
+    {
+      "verb": "sow",
+      "preterit": [
+        "sowed"
+      ],
+      "pastParticiple": [
+        "sown"
+      ]
+    },
+    {
+      "verb": "speak",
+      "preterit": [
+        "spoke"
+      ],
+      "pastParticiple": [
+        "spoken"
+      ]
+    },
+    {
+      "verb": "speed",
+      "preterit": [
+        "sped"
+      ],
+      "pastParticiple": [
+        "sped"
+      ]
+    },
+    {
+      "verb": "spell",
+      "preterit": [
+        "spelt"
+      ],
+      "pastParticiple": [
+        "spelt"
+      ]
+    },
+    {
+      "verb": "spend",
+      "preterit": [
+        "spent"
+      ],
+      "pastParticiple": [
+        "spent"
+      ]
+    },
+    {
+      "verb": "spill",
+      "preterit": [
+        "spilt",
+        "spilled"
+      ],
+      "pastParticiple": [
+        "spilt",
+        "spilled"
+      ]
+    },
+    {
+      "verb": "spin",
+      "preterit": [
+        "spun"
+      ],
+      "pastParticiple": [
+        "spun"
+      ]
+    },
+    {
+      "verb": "spit",
+      "preterit": [
+        "spat",
+        "spit"
+      ],
+      "pastParticiple": [
+        "spat",
+        "spit"
+      ]
+    },
+    {
+      "verb": "split",
+      "preterit": [
+        "split"
+      ],
+      "pastParticiple": [
+        "split"
+      ]
+    },
+    {
+      "verb": "spoil",
+      "preterit": [
+        "spoilt"
+      ],
+      "pastParticiple": [
+        "spoilt"
+      ]
+    },
+    {
+      "verb": "spread",
+      "preterit": [
+        "spread"
+      ],
+      "pastParticiple": [
+        "spread"
+      ]
+    },
+    {
+      "verb": "spring",
+      "preterit": [
+        "sprang"
+      ],
+      "pastParticiple": [
+        "sprung"
+      ]
+    },
+    {
+      "verb": "stand",
+      "preterit": [
+        "stood"
+      ],
+      "pastParticiple": [
+        "stood"
+      ]
+    },
+    {
+      "verb": "steal",
+      "preterit": [
+        "stole"
+      ],
+      "pastParticiple": [
+        "stolen"
+      ]
+    },
+    {
+      "verb": "stick",
+      "preterit": [
+        "stuck"
+      ],
+      "pastParticiple": [
+        "stuck"
+      ]
+    },
+    {
+      "verb": "sting",
+      "preterit": [
+        "stung"
+      ],
+      "pastParticiple": [
+        "stung"
+      ]
+    },
+    {
+      "verb": "stink",
+      "preterit": [
+        "stank"
+      ],
+      "pastParticiple": [
+        "stunk"
+      ]
+    },
+    {
+      "verb": "strew",
+      "preterit": [
+        "strewed"
+      ],
+      "pastParticiple": [
+        "strewn",
+        "strewed"
+      ]
+    },
+    {
+      "verb": "strike",
+      "preterit": [
+        "struck"
+      ],
+      "pastParticiple": [
+        "stricken",
+        "struck"
+      ]
+    },
+    {
+      "verb": "strive",
+      "preterit": [
+        "strove"
+      ],
+      "pastParticiple": [
+        "striven"
+      ]
+    },
+    {
+      "verb": "swear",
+      "preterit": [
+        "swore"
+      ],
+      "pastParticiple": [
+        "sworn"
+      ]
+    },
+    {
+      "verb": "sweat",
+      "preterit": [
+        "sweat"
+      ],
+      "pastParticiple": [
+        "sweat"
+      ]
+    },
+    {
+      "verb": "sweel",
+      "preterit": [
+        "swelled"
+      ],
+      "pastParticiple": [
+        "swollen"
+      ]
+    },
+    {
+      "verb": "sweep",
+      "preterit": [
+        "swept"
+      ],
+      "pastParticiple": [
+        "swept"
+      ]
+    },
+    {
+      "verb": "swim",
+      "preterit": [
+        "swam"
+      ],
+      "pastParticiple": [
+        "swum"
+      ]
+    },
+    {
+      "verb": "swing",
+      "preterit": [
+        "swung"
+      ],
+      "pastParticiple": [
+        "swung"
+      ]
+    },
+    {
+      "verb": "take",
+      "preterit": [
+        "took"
+      ],
+      "pastParticiple": [
+        "taken"
+      ]
+    },
+    {
+      "verb": "teach",
+      "preterit": [
+        "taught"
+      ],
+      "pastParticiple": [
+        "taught"
+      ]
+    },
+    {
+      "verb": "tear",
+      "preterit": [
+        "tore"
+      ],
+      "pastParticiple": [
+        "torn"
+      ]
+    },
+    {
+      "verb": "tell",
+      "preterit": [
+        "told"
+      ],
+      "pastParticiple": [
+        "told"
+      ]
+    },
+    {
+      "verb": "think",
+      "preterit": [
+        "thought"
+      ],
+      "pastParticiple": [
+        "thought"
+      ]
+    },
+    {
+      "verb": "thrive",
+      "preterit": [
+        "throve"
+      ],
+      "pastParticiple": [
+        "thriven"
+      ]
+    },
+    {
+      "verb": "throw",
+      "preterit": [
+        "threw"
+      ],
+      "pastParticiple": [
+        "thrown"
+      ]
+    },
+    {
+      "verb": "thrust",
+      "preterit": [
+        "thrust"
+      ],
+      "pastParticiple": [
+        "thrust"
+      ]
+    },
+    {
+      "verb": "typeset",
+      "preterit": [
+        "typeset"
+      ],
+      "pastParticiple": [
+        "typeset"
+      ]
+    },
+    {
+      "verb": "undergo",
+      "preterit": [
+        "underwent"
+      ],
+      "pastParticiple": [
+        "undergone"
+      ]
+    },
+    {
+      "verb": "wake",
+      "preterit": [
+        "woke"
+      ],
+      "pastParticiple": [
+        "woken"
+      ]
+    },
+    {
+      "verb": "wear",
+      "preterit": [
+        "wore"
+      ],
+      "pastParticiple": [
+        "worn"
+      ]
+    },
+    {
+      "verb": "weep",
+      "preterit": [
+        "wept"
+      ],
+      "pastParticiple": [
+        "wept"
+      ]
+    },
+    {
+      "verb": "wet",
+      "preterit": [
+        "wet"
+      ],
+      "pastParticiple": [
+        "wet"
+      ]
+    },
+    {
+      "verb": "win",
+      "preterit": [
+        "won"
+      ],
+      "pastParticiple": [
+        "won"
+      ]
+    },
+    {
+      "verb": "wind",
+      "preterit": [
+        "wound"
+      ],
+      "pastParticiple": [
+        "wound"
+      ]
+    },
+    {
+      "verb": "withdraw",
+      "preterit": [
+        "withdrew"
+      ],
+      "pastParticiple": [
+        "withdrawn"
+      ]
+    },
+    {
+      "verb": "wring",
+      "preterit": [
+        "wrung"
+      ],
+      "pastParticiple": [
+        "wrung"
+      ]
+    },
+    {
+      "verb": "write",
+      "preterit": [
+        "wrote"
+      ],
+      "pastParticiple": [
+        "written"
+      ]
+    }
+  ]}
